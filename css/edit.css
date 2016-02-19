@@ -1,0 +1,19 @@
+#nav-container{
+    float: right;
+}
+
+.item{
+    cursor: pointer;
+}
+
+#esrb_logo{
+    margin-bottom: 0px;
+}
+
+#esrb_img{
+    float: right;
+}
+
+#footer{
+    padding-top: 15px;
+}
